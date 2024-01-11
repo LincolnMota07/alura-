@@ -1,4 +1,7 @@
-
+<p align="center">
+  <img src="/img/Logo.png" alt="Logo do Alura+">
+</p>
+<br>
 
 ![GitHub License](https://img.shields.io/github/license/LincolnMota07/alura-)
 
@@ -9,7 +12,7 @@
 ![Static Badge](https://img.shields.io/badge/CONCLUIDO-blue)
 
 ## 💻 Preview do Site
-[Imgur](https://imgur.com/FqJsCZC)
+<img src="/img/pagina site 1.png" alt="Página principal do site Alura+">
 
 
 ## 🚀 Tecnologias
